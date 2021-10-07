@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;540&display=swap');
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://source.unsplash.com/Q1p7bh3SHj8/2000x1000');
+  height: 700px;
+  font-family: 'Quicksand',sans-serif;
+}
+
+.banner h1{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 300px;
+  padding-left: 100px;
+}
+
+.banner p {
+  padding-left: 100px;
+  color: white;
+  font-size: 20px;
+}
+
+.banner a {
+  background-color: rgb(49, 114, 167);
+  margin-left: 100px;
+  color: aliceblue;
+  height: 130px;
+  width:  400px;
+  border: 1px solid gray;
+  padding: 15px 25px;
+  border-radius: 50px;
+  opacity: 0.6;
+  font-weight: lighter;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+

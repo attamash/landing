@@ -1,0 +1,65 @@
+.card-opt {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card-apply {
+  padding: 5px;
+  border-radius: 2px;
+  box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.4);
+}
+
+.card-apply-img{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://source.unsplash.com/3Rn2EjoAC1g/200x200');
+  height: 200px;
+}
+
+.card-learn {
+  padding: 5px;
+  border-radius: 2px;
+  box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.4);
+}
+
+.card-learn-img{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://source.unsplash.com/6jYoil2GhVk/200x200');
+  height: 200px;
+}
+
+.card-build {
+  padding: 5px;
+  border-radius: 2px;
+  box-shadow: 3px 4px 5px rgba(0, 0, 0, 0.4);
+}
+
+.card-build-img{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://source.unsplash.com/kn-UmDZQDjM/200x200');
+  height: 200px;
+}
+.footer {
+  background-color: rgb(66, 64, 64);
+  height: 100px;
+  display: block;
+
+}
+
+.footer h3 {
+  margin: 20px 400px;
+}
+
+.list-inline{
+  list-style: none;
+  padding: 0;
+  text-align: center;
+   margin: 20px auto;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 8px;
+  margin: 20px auto;
+}
+
+.list-inline li:hover {
+  color: black;
+}
